@@ -30,3 +30,5 @@ Each turn, many things happen.
 - A random event randomly happens. This can be something devastating, something very nice, something very illegal or something very lucky.
 
 Every time an event happens, you can either answer with yes/accept when you enter "y", and answer with no/decline by entering anything else than "y".
+
+also check out https://github.com/leosefcik/monaze-program
