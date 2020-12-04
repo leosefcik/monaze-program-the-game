@@ -25,7 +25,7 @@ The goal is to survive as many turns as possible (and possibly unlock possible a
 
 Each turn, many things happen.
 - You pay for rent and stuff
-- Your happiness naturally goes a bit down
+- Your happiness naturally goes a bit down (unless you do/have something that makes you happy)
 - You work (if you have work)
 - A random event randomly happens. This can be something devastating, something very nice, something very illegal or something very lucky.
 
